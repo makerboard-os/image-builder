@@ -1,0 +1,11 @@
+IMG_NAME=MakerBoardOS
+WORK_DIR=$HOME/Storage/makerboard-os/work-dir
+DEPLOY_DIR=$HOME/Storage/makerboard-os/deploy-dir
+DEPLOY_ZIP=0
+LOCALE_DEFAULT=en_US.UTF-8
+KEYBOARD_KEYMAP=us
+KEYBOARD_LAYOUT=English (US)
+TIMEZONE_DEFAULT=America/New_York
+FIRST_USER_NAME=maker
+FIRST_USER_PASS=1776
+ENABLE_SSH=1
